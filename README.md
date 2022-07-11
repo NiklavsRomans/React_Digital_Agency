@@ -1,7 +1,11 @@
-# Digital Agency landing page using React.
+# Digital Agency landing page.
 
 ![Digital Agency GIF](./src/assets/gif/DigitalGif.gif)
 
+
+This project was made by following Component Driven User Interface. Atomic Design.
+
+Link to the design [HERE](https://www.figma.com/community/file/1058842196634115002)
 
 # Getting Started with Create React App
 
