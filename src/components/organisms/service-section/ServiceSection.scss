@@ -1,0 +1,36 @@
+.service__title {
+    font-size: 60px;
+    color: white;
+    line-height: 70px;
+    text-align: center;
+    max-width: 700px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.service__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+
+.service__section {
+    padding-top: 120px;
+}
+
+
+.plus__icon {
+    padding-top: 100px;
+}
+
+.service__cards {
+    padding-top: 100px;
+    display: grid;
+    gap: 130px;
+    justify-content: center;
+    grid-template-columns: auto auto auto;
+}
+
+.plus__icon {
+    padding-top: 100px;
+}

@@ -1,0 +1,26 @@
+.slide__image1 {
+    border: 25px solid #1E1E20;
+    border-radius: 12px;
+    position: relative;
+}
+
+.slide__image2 {
+    border: 25px solid #1E1E20;
+    border-radius: 12px;
+    position: relative;
+    top: 50px;
+}
+
+.slide__image3 {
+    border: 25px solid #1E1E20;
+    border-radius: 12px;
+    position: relative;
+    top: 100px;
+}
+
+.image__slider {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}

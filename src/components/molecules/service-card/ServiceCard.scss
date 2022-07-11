@@ -1,0 +1,27 @@
+.service__card-title {
+    font-size: 28px;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+}
+
+
+.service__card-description {
+    font-size: 20px;
+    color: #FFFFFFB2;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.service__card-wrapper {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+}
+
+.service__card-box {
+    max-width: 400px;
+}

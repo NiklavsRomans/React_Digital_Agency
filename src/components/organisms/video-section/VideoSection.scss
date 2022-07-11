@@ -1,0 +1,30 @@
+.video__text-title {
+    font-size: 60px;
+    line-height: 70px;
+    color: white;
+    font-weight: 700;
+    max-width: 580px;
+    width: 100%;
+    font-family: 'Raleway', sans-serif;
+}
+
+.video__text-para {
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 40px;
+    color: #FFFFFFB2;
+    max-width: 580px;
+    width: 100%;
+}
+
+.video__text {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 200px;
+    padding-bottom: 50px;
+
+}
+
+.video__hero {
+    padding-top: 140px;
+}

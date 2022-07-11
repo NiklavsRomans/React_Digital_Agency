@@ -1,0 +1,23 @@
+.portofolio__title {
+    font-size: 58px;
+    font-weight: 800;
+    line-height: 80px;
+    color: white;
+}
+
+.portofolio__content {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 300px;
+    align-items: center;
+}
+
+.portofolio__section {
+    padding-top: 120px;
+}
+
+.slider {
+    display: flex;
+    justify-content: center;
+    padding-top: 70px;
+}
